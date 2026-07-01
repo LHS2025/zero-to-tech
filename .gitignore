@@ -1,3 +1,5 @@
 .idea/.gitignore
 .idea/modules.xml
 .idea/zero-to-tech.iml
+node_modules
+dist
